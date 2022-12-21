@@ -5,3 +5,8 @@ I'm Seb working as a Tech Lead in the gamming industry. Pationnate by the web te
  🔭 I’m currently working on Aster.js projects, the goal final goal is to unify the overall communication between backend / frontend / workers / browser to browser / etc through asynchronous events base comunications.
 
  👯 I’m looking to collaborate on all Aster.js project.
+
+
+## 𝗦𝘁𝗮𝘁𝘀
+
+![elfocrash's github stats](https://github-readme-stats.vercel.app/api?username=sebdoucet&show_icons=true&theme=dracula)
